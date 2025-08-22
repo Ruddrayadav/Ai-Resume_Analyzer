@@ -1,2 +1,28 @@
-# Ai-Resume_Analyzer
-eveloped an AI-powered Resume Analyzer using Python, LangChain, and Streamlit to provide detailed insights on candidate resumes. The tool supports two modes: Candidate Mode: Generates narrative summaries, highlights strengths and areas for improvement, and provides actionable feedback for job seekers. 
+# 📄 AI-Powered Resume Analyzer  
+
+An interactive AI-driven web app built with **Python**, **LangChain**, and **Streamlit** that analyzes candidate resumes and provides **detailed insights** for both job seekers and recruiters.  
+
+## 🚀 Features  
+
+### 👤 Candidate Mode  
+- Generates **narrative summaries** of resumes  
+- Highlights **strengths** and **areas for improvement**  
+- Provides **actionable feedback** for career growth  
+
+### 🏢 HR Mode  
+- Compares resumes **against job descriptions**  
+- Provides **match scores** for quick evaluation  
+- Highlights **key strengths** and **skill gaps**  
+- Offers **hiring recommendations** to streamline recruitment  
+
+## 🛠️ Tech Stack  
+- **Python** 🐍  
+- **LangChain** 🤖 – AI-powered NLP and analysis  
+- **Streamlit** 🎨 – Clean, interactive web app interface  
+- **PDF Parsing** 📑 – Efficient resume content extraction  
+
+
+
+
+ 
+
